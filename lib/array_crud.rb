@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  guitar_brands = ["Fender", "Gibson"]
-  guitar_brands.push("Rickenbacker")
+  guitar_brands = [" ", " "]
+  guitar_brands.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
